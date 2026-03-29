@@ -17,13 +17,6 @@
       "Description": "Iveco turbostar, 4x2 6x2 corto e 6x2 Lungo"
     },
     {
-      "Id": "fs25-turbostar2",
-      "Title": "Iveco Turbostar2",
-      "Version": "1.0 Stabile2",
-      "Badge": "Farming",
-      "Description": "Iveco turbostar, 4x2 6x2 corto e 6x2 Lungo"
-    },
-    {
       "Id": "ets2-turbostar",
       "Title": "Iveco Turbostar Ralf",
       "Version": "2.0 Alpha",
@@ -36,6 +29,13 @@
       "Version": "0.1 Internal",
       "Badge": "ETS2",
       "Description": "traffico IMP"
-    }
+    },
+    {
+  "Id": "test-nuova-mod",
+  "Title": "MOD NUOVA TEST",
+  "Version": "1.0",
+  "Badge": "Farming",
+  "Description": "Se appare, abbiamo finito"
+}
   ]
 }
