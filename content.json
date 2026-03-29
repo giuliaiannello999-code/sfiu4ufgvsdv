@@ -31,11 +31,11 @@
       "Description": "traffico IMP"
     },
     {
-  "Id": "test-nuova-mod",
-  "Title": "MOD NUOVA TEST",
-  "Version": "1.0",
-  "Badge": "Farming",
-  "Description": "Se appare, abbiamo finito"
-}
+      "Id": "test-nuova-mod",
+      "Title": "MOD NUOVA TEST",
+      "Version": "0.1",
+      "Badge": "Farming",
+      "Description": "Se appare, abbiamo finito"
+    }
   ]
 }
