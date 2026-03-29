@@ -17,6 +17,13 @@
       "Description": "Testo aggiornato remoto. si"
     },
     {
+      "Id": "fs25-viberti",
+      "Title": "viberti",
+      "Version": "1.9 Beta",
+      "Badge": "Farming",
+      "Description": "viberti testo"
+    },
+    {
       "Id": "ets2-turbostar",
       "Title": "Iveco Turbostar",
       "Version": "2.0 Alpha",
