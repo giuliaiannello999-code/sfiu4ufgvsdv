@@ -17,6 +17,20 @@
       "Description": "Iveco turbostar, 4x2 6x2 corto e 6x2 Lungo"
     },
     {
+      "Id": "test-nuova-mod",
+      "Title": "MOD NUOVA TEST",
+      "Version": "0.1",
+      "Badge": "Farming",
+      "Description": "Se appare, abbiamo f2inito"
+    },
+    {
+      "Id": "test-nuova-mod",
+      "Title": "MOD NUOVA TEST",
+      "Version": "0.1",
+      "Badge": "Farming",
+      "Description": "Se appare, abbiamo f2inito"
+    },
+    {
       "Id": "ets2-turbostar",
       "Title": "Iveco Turbostar Ralf",
       "Version": "2.0 Alpha",
@@ -29,83 +43,6 @@
       "Version": "0.1 Internal",
       "Badge": "ETS2",
       "Description": "traffico IMP"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
     }
   ]
 }
