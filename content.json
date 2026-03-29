@@ -1,41 +1,34 @@
 {
   "QuickNoteTitle": "Quick note",
-  "QuickNoteText": "TESTO 11",
+  "QuickNoteText": "Adesso funziona cazzo",
   "Mods": [
     {
-      "Id": "fs25-trt-kkre",
-      "Title": "Trakker",
-      "Version": "0.1 Beta",
+      "Id": "fs25-trakker",
+      "Title": "Iveco Trakker",
+      "Version": "1.0 Stabile",
       "Badge": "Farming",
-      "Description": "Descrizione modificata da GitHub. trakker"
+      "Description": "Iveco trakker 6x4"
     },
     {
       "Id": "fs25-turbostar",
       "Title": "Iveco Turbostar",
-      "Version": "1.2 Beta",
+      "Version": "1.0 Stabile",
       "Badge": "Farming",
-      "Description": "Testo aggiornato remoto. si"
-    },
-    {
-      "Id": "fs25-viberti",
-      "Title": "viberti",
-      "Version": "1.9 Beta",
-      "Badge": "Farming",
-      "Description": "viberti testo"
+      "Description": "Iveco turbostar, 4x2 6x2 corto e 6x2 Lungo"
     },
     {
       "Id": "ets2-turbostar",
-      "Title": "Iveco Turbostar",
+      "Title": "Iveco Turbostar Ralf",
       "Version": "2.0 Alpha",
       "Badge": "ETS2",
-      "Description": "Scheda ETS2 aggiornata da GitHub.2"
+      "Description": "Mod di Ralf"
     },
     {
-      "Id": "ets2-imp-tools",
-      "Title": "IMP Companion Pack",
-      "Version": "0.4 Internal",
+      "Id": "ets2-imp-traffic",
+      "Title": "IMP traffic",
+      "Version": "0.1 Internal",
       "Badge": "ETS2",
-      "Description": "Contenuto modificabile da GitHub.2"
+      "Description": "traffico IMP"
     }
   ]
 }
