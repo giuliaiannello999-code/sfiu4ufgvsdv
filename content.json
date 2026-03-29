@@ -1,0 +1,34 @@
+{
+  "QuickNoteTitle": "Quick note",
+  "QuickNoteText": "Questo testo arriva da GitHub.",
+  "Mods": [
+    {
+      "Id": "fs25-imp-map",
+      "Title": "Italy Map Project FS25",
+      "Version": "0.9 Preview",
+      "Badge": "Farming",
+      "Description": "Descrizione modificata da GitHub."
+    },
+    {
+      "Id": "fs25-turbostar",
+      "Title": "Iveco Turbostar FS25",
+      "Version": "1.2 Beta",
+      "Badge": "Farming",
+      "Description": "Testo aggiornato remoto."
+    },
+    {
+      "Id": "ets2-turbostar",
+      "Title": "Iveco Turbostar ETS2",
+      "Version": "2.0 Alpha",
+      "Badge": "ETS2",
+      "Description": "Scheda ETS2 aggiornata da GitHub."
+    },
+    {
+      "Id": "ets2-imp-tools",
+      "Title": "IMP Companion Pack",
+      "Version": "0.4 Internal",
+      "Badge": "ETS2",
+      "Description": "Contenuto modificabile da GitHub."
+    }
+  ]
+}
