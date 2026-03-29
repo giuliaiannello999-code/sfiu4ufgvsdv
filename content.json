@@ -43,6 +43,13 @@
       "Version": "0.1 Internal",
       "Badge": "ETS2",
       "Description": "traffico IMP"
+    },
+    {
+      "Id": "ets2-imp-traffic2",
+      "Title": "IMP traffic2",
+      "Version": "0.1 Internal2",
+      "Badge": "ETS2",
+      "Description": "traffico IMP2"
     }
   ]
 }
