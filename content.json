@@ -3,25 +3,25 @@
   "QuickNoteText": "PROV1A",
   "Mods": [
     {
-      "Id": "fs25-imp-map",
-      "Title": "Italy Map Project FS25",
-      "Version": "0.9 Preview",
+      "Id": "fs25-trt-kkre",
+      "Title": "Trakker",
+      "Version": "0.1 Beta",
       "Badge": "Farming",
-      "Description": "Descrizione modificata da GitHub."
+      "Description": "Descrizione modificata da GitHub. trakker"
     },
     {
       "Id": "fs25-turbostar",
-      "Title": "Iveco Turbostar FS25",
+      "Title": "Iveco Turbostar",
       "Version": "1.2 Beta",
       "Badge": "Farming",
-      "Description": "Testo aggiornato remoto."
+      "Description": "Testo aggiornato remoto. si"
     },
     {
       "Id": "ets2-turbostar",
-      "Title": "Iveco Turbostar ETS2",
+      "Title": "Iveco Turbostar",
       "Version": "2.0 Alpha",
       "Badge": "ETS2",
-      "Description": "Scheda ETS2 aggiornata da GitHub."
+      "Description": "Scheda ETS2 aggiornata da GitHub.2"
     },
     {
       "Id": "ets2-imp-tools",
