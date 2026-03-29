@@ -17,13 +17,6 @@
       "Description": "Iveco turbostar, 4x2 6x2 corto e 6x2 Lungo"
     },
     {
-      "Id": "fs25-viberti",
-      "Title": "viberti",
-      "Version": "1.0 Beta",
-      "Badge": "Farming",
-      "Description": "Rimorchio Viberti"
-    },
-    {
       "Id": "ets2-turbostar",
       "Title": "Iveco Turbostar Ralf",
       "Version": "2.0 Alpha",
