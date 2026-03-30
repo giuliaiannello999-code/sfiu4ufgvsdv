@@ -2,10 +2,10 @@
   "Title": "ModShield Manager 2",
   "Subtitle": "Una libreria privata per le tue mod, con accessi, chiavi e download gestiti in un'app pulita.",
 
-  "SectionTitle": "Design target",
+  "SectionTitle": "Design target 22",
   "SectionDescription": "Interfaccia moderna in stile iOS con trasparenze leggere, card separate e contenuti aggiornabili da remoto tramite GitHub.",
 
-  "BackendBlockTitle": "Pronto per il backend",
+  "BackendBlockTitle": "Pronto per il backend 22",
   "BackendBlockText": "Sistema già predisposto per collegamento a Firebase, gestione utenti, chiavi di attivazione e download protetti senza modificare la UI.",
 
   "ChangelogTitle": "Changelog",
