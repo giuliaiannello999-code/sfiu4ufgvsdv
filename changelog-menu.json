@@ -1,0 +1,32 @@
+{
+  "Title": "ModShield Manager 2",
+  "Subtitle": "Una libreria privata per le tue mod, con accessi, chiavi e download gestiti in un'app pulita.",
+
+  "SectionTitle": "Design target",
+  "SectionDescription": "Interfaccia moderna in stile iOS con trasparenze leggere, card separate e contenuti aggiornabili da remoto tramite GitHub.",
+
+  "BackendBlockTitle": "Pronto per il backend",
+  "BackendBlockText": "Sistema già predisposto per collegamento a Firebase, gestione utenti, chiavi di attivazione e download protetti senza modificare la UI.",
+
+  "ChangelogTitle": "Changelog",
+  "ChangelogText": "v1.0 - Struttura base applicazione\nv1.1 - Sistema login e registrazione\nv1.2 - Updater automatico integrato\nv1.3 - Sidebar dinamica da GitHub",
+
+  "Cards": [
+    {
+      "Title": "Accessi",
+      "Text": "Login e registrazione integrati con salvataggio automatico delle credenziali"
+    },
+    {
+      "Title": "Chiavi",
+      "Text": "Sistema di attivazione mod con controllo e gestione utenti"
+    },
+    {
+      "Title": "Libreria",
+      "Text": "Catalogo mod organizzato per gioco con interfaccia semplice e pulita"
+    },
+    {
+      "Title": "Aggiornamenti",
+      "Text": "Updater automatico con download e installazione gestiti direttamente dall'app"
+    }
+  ]
+}
