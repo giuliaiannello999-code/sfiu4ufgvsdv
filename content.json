@@ -17,18 +17,11 @@
       "Description": "Iveco turbostar, 4x2 6x2 corto e 6x2 Lungo"
     },
     {
-      "Id": "FS25-FABBRI-3AX",
+      "Id": "fs25-fabbri-3ax",
       "Title": "Fabbri 3 Assi",
       "Version": "1.0",
       "Badge": "Farming",
       "Description": "Test Download"
-    },
-    {
-      "Id": "test-nuova-mod",
-      "Title": "MOD NUOVA TEST",
-      "Version": "0.1",
-      "Badge": "Farming",
-      "Description": "Se appare, abbiamo f2inito"
     },
     {
       "Id": "ets2-turbostar",
