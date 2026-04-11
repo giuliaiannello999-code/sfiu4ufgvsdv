@@ -24,6 +24,13 @@
       "Description": "Test Download"
     },
     {
+      "Id": "fs25-turbo",
+      "Title": "Iveco Turbo",
+      "Version": "1.0 Beta",
+      "Badge": "ETS2",
+      "Description": "DESCRIZIONE"
+    },
+    {
       "Id": "ets2-turbostar",
       "Title": "Iveco Turbostar Ralf",
       "Version": "2.0 Alpha",
