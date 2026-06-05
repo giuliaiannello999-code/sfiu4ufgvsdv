@@ -29,6 +29,7 @@
       "Version": "1.0 Beta",
       "Badge": "Farming",
       "Description": "Test Download 2"
+      "VehicleXml": "Fabbri.xml"
     },
     {
       "Id": "fs25-turbo",
