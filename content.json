@@ -10,6 +10,13 @@
       "Description": "Fabbri 2 Assi con configurazioni cassoni"
     },
     {
+      "Id": "fs25-eurocargo",
+      "Title": "Iveco Eurocargo 120e18",
+      "Version": "1.0.0.0",
+      "Badge": "Farming",
+      "Description": "Iveco Eurocargo 120e18 centinato"
+    },
+    {
       "Id": "fs25-fabbri-3ax",
       "Title": "Fabbri 3 Assi",
       "Version": "1.0.0.0",
