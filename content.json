@@ -3,18 +3,11 @@
   "QuickNoteText": "Adesso funziona cazzo",
   "Mods": [
     {
-      "Id": "fs25-trakker",
-      "Title": "Iveco Trakker",
-      "Version": "DA FARE",
+      "Id": "fs25-fabbri-2ax",
+      "Title": "Fabbri 2 Assi",
+      "Version": "1.0 Beta",
       "Badge": "Farming",
-      "Description": "Iveco trakker 6x4"
-    },
-    {
-      "Id": "fs25-turbostar",
-      "Title": "Iveco Turbostar",
-      "Version": "DA FARE",
-      "Badge": "Farming",
-      "Description": "Iveco turbostar, 4x2 6x2 corto e 6x2 Lungo"
+      "Description": "Fabbri 2 Assi con configurazioni cassoni"
     },
     {
       "Id": "fs25-fabbri-3ax",
@@ -24,39 +17,11 @@
       "Description": "Test Download"
     },
     {
-      "Id": "fs25-fabbri-2ax",
-      "Title": "Fabbri 2 Assi",
-      "Version": "1.0 Beta",
-      "Badge": "Farming",
-      "Description": "Test Download 2"
-    },
-    {
       "Id": "fs25-turbo",
       "Title": "Iveco Turbo",
       "Version": "1.0 Beta",
       "Badge": "ETS2",
       "Description": "DESCRIZIONE"
-    },
-    {
-      "Id": "ets2-turbostar",
-      "Title": "Iveco Turbostar Ralf",
-      "Version": "2.0 Alpha",
-      "Badge": "ETS2",
-      "Description": "Mod di Ralf"
-    },
-    {
-      "Id": "ets2-imp-traffic",
-      "Title": "IMP traffic",
-      "Version": "0.1 Internal",
-      "Badge": "ETS2",
-      "Description": "traffico IMP"
-    },
-    {
-      "Id": "ets2-imp-traffic2",
-      "Title": "IMP traffic2",
-      "Version": "0.1 Internal2",
-      "Badge": "ETS2",
-      "Description": "traffico IMP2"
     }
   ]
 }
