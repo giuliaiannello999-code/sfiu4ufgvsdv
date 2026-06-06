@@ -5,14 +5,14 @@
     {
       "Id": "fs25-fabbri-2ax",
       "Title": "Fabbri 2 Assi",
-      "Version": "2.0",
+      "Version": "1.0.0.0",
       "Badge": "Farming",
       "Description": "Fabbri 2 Assi con configurazioni cassoni"
     },
     {
       "Id": "fs25-fabbri-3ax",
       "Title": "Fabbri 3 Assi",
-      "Version": "1.0",
+      "Version": "1.0.0.0",
       "Badge": "Farming",
       "Description": "Test Download"
     },
