@@ -3,6 +3,13 @@
   "QuickNoteText": "Adesso funziona cazzo",
   "Mods": [
     {
+      "Id": "fs25-turbostar",
+      "Title": "Iveco TruboStar",
+      "Version": "1.0.0.0",
+      "Badge": "Farming",
+      "Description": "Iveco TurboStar"
+    },
+    {
       "Id": "fs25-fabbri-2ax",
       "Title": "Fabbri 2 Assi",
       "Version": "1.0.0.0",
