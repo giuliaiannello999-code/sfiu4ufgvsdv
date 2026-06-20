@@ -31,6 +31,13 @@
       "Description": "Test Download"
     },
     {
+      "Id": "fs25-jd-7710",
+      "Title": "John Deere 7610 7710-7810",
+      "Version": "1.0.0.0",
+      "Badge": "Farming",
+      "Description": "Test mod CR82"
+    },
+    {
       "Id": "fs25-turbo",
       "Title": "Iveco Turbo",
       "Version": "1.0 Beta",
